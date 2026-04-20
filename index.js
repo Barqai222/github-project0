@@ -9,3 +9,5 @@ function divide(a,b){
 function minus(x,y){
     minus(x - y);
 }
+
+print "REVERT";
