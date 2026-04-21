@@ -3,3 +3,9 @@ function add(a,b){
 }
 
 const abc = 555;
+
+print "AoA AoA";
+
+function minus(x,y){
+    minus(x - y);
+}

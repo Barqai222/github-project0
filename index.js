@@ -11,3 +11,7 @@ function minus(x,y){
 }
 
 print "REVERT";
+
+function minus(xy,yx){
+    minus(xy - yx);
+}
