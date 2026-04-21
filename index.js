@@ -15,3 +15,7 @@ print "REVERT";
 function minus(xy,yx){
     minus(xy - yx);
 }
+
+function newbranch(){
+    console.log('That is sky');
+}
