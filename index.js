@@ -20,3 +20,6 @@ function newbranch(){
     console.log('That is sky');
     console.log('That is earth');
 }
+
+
+// git push --set-upstream origin second-branch
